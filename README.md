@@ -20,14 +20,11 @@ specific rental order from the rental table. The updateTrackingInfo query update
 tracking information for a specific rental order from the rental table. The updateCatalog
 query updates the details of a game in the catalog. The updateUser query updates the
 role and number of overdue games for a user
+<img width="470" height="421" alt="Screenshot 2026-01-21 at 1 18 43 PM" src="https://github.com/user-attachments/assets/b1bdd323-2888-4faa-bb16-6bfb6bcc71e9" />
+<img width="449" height="410" alt="Screenshot 2026-01-21 at 1 19 06 PM" src="https://github.com/user-attachments/assets/578629ce-2134-4673-a2ff-84c3bf1ca3f7" />
 
 
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/c2e67f70-656b-4959-8b07-28afe382271f" />
-
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/a4dae296-e8f8-41b7-bc4f-66f95ece6ca8" />
-
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/372daa79-edb4-40fe-ae4b-bffe0a187afc" />
-
+<img width="548" height="463" alt="Screenshot 2026-01-21 at 1 19 30 PM" src="https://github.com/user-attachments/assets/82665381-461f-4e72-9a57-4cb146abf5e6" />
 
 Problems/Findings
 One of the difficulties we had was with making sure we were currently writing the sql
