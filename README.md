@@ -1,6 +1,7 @@
 # game-rental-system
 
-Implementation Description
+# Implementation Description
+
 Our goal was to add functionality and an overall better user interface by adding
 functionality to the GameRental class to manage user profiles, view game catalogs,
 place orders, and view orders in a PostgreSQL database using SQL queries executed
@@ -26,7 +27,7 @@ role and number of overdue games for a user
 
 <img width="548" height="463" alt="Screenshot 2026-01-21 at 1 19 30 PM" src="https://github.com/user-attachments/assets/82665381-461f-4e72-9a57-4cb146abf5e6" />
 
-Problems/Findings
+# Problems/Findings
 One of the difficulties we had was with making sure we were currently writing the sql
 queries for the JDBC drivers in Java. We also had to take the time to properly
 understand how all of the imported methods work interactively with our queries and the
